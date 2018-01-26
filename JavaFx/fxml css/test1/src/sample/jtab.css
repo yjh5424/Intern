@@ -1,0 +1,19 @@
+
+
+.tab {
+    -fx-pref-height: 50;
+    -fx-pref-width: 180;
+    -fx-background-color: #f5576c;
+}
+
+.jfx-tab-pane {
+    -fx-background-color: #fff;
+}
+
+.jfx-tab-pane .tab-header-background {
+    -fx-background-color: #f5576c;
+}
+
+
+
+
